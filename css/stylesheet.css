@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+/* https://colorhunt.co/palette/213252 */
+*{
+    margin: 0px;
+}
+
+header{
+    font-family: 'Big Shoulders Inline Text', cursive;
+    font-size: 4rem;
+    background-color: #070d59;
+    color: #f6f5f5;
+    text-align: center;
+    height: 8vh;
+    line-height: 8vh;
+}
+
+.main{
+    height: 89vh;
+    display: flex;
+}
+
+aside{
+    background-color: #ee6f57;
+    border: #f6f5f5 2px solid;
+    font-family: 'VT323', monospace;
+    /* font-weight: bold; */
+    font-size: 1.5rem;;
+    width: 20%;
+    padding: 10px;
+}
+
+.traces{
+    display: flex;
+}
+
+.trace{
+    margin-right: 5px;
+}
+
+.traceCounter{
+    text-align: center;
+}
+
+.choose{
+    color: rgb(28, 34, 34);
+}
+
+select{
+    font-family: 'VT323', monospace;
+    font-size: 1.2rem;
+    background-color: #f6f6f5;  
+    color: #070d59;
+    border-radius: 2px;
+    margin-left: 0px;
+}
+
+section{
+    font-family: 'VT323', monospace;
+    color: #1f3c88;
+    font-size: 1.5rem;
+    width: 80%;
+    padding: 10px;
+}
+
+input{
+    font-family: 'VT323', monospace;
+    font-size: 1.2rem;
+    width: auto;
+    height: 2rem;
+    background-color: #f6f5f5;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
+input:hover, select:hover{
+    background-color: #757575;
+    color: #f6f5f5;
+    cursor: pointer;
+}
+
+.results{
+    font-weight: bold;
+}
+footer{
+    background-color: #070d59;
+    color: #f6f5f5;
+    text-align: center;
+    padding: 5px 0px;
+    font-family: 'Big Shoulders Inline Text', cursive;
+    font-size: 1.2rem;
+    height: 2vh;
+    line-height: 2vh;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
