@@ -1,3 +1,3 @@
-# True WebSite
+# Quadrade de Punnett
 
-Some text
+Site em desenvolvimento para auxiliar os estudos relacionado à genética. Sendo portanto, um site com fins educativos que poderá ser usado para esse fim.
