@@ -10,6 +10,4 @@ Developed for educational pourposes, this site aims to assist genetic studies. G
 
 -------------------------------------------------------------
 
-*Author: Ambrósia Andrade*
-*Year: 2021*
-*GitHub: github.com/dev-ambro*
+*Author: Ambrósia Andrade  |  Year: 2021  |  GitHub: github.com/dev-ambro*
