@@ -1,74 +1,66 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
+    <meta name="author" content="Ambrósia Andrade">
+    <meta name="description" content="Free Punnet Square Webpage">
+    <meta name="keywords" content="Quadrado de punnet, Punnett square">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PunnetSquare</title>
+    <title>Quadro de Punnett</title>
     <link  rel="stylesheet" href="./css/reset.css">
     <link  rel="stylesheet" href="./css/stylesheet.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
     <header>
-        <h1>Punnet Square</h1>
+        <h1>Quadro de Punnett</h1>
     </header>
     <div class="main">
         <aside>
             <p>ESCOLHA:</p>
             <div class="choose">
-                
                 <br>
-
-                <p>&#9792 PARENTE 1</p>
-                <!-- Dentro do traces vários trace podem ser adicionados -->
-                <!-- AA, BB, CC ... mas isso aumenta a complexidade da tabela -->
+                <p>PARENTE 1</p>
                 <div class="traces">
-                    <div class="trace">
-                        <p class="traceCounter">1</p>
-                        <select id="p1t1">
-                            <option>AA</option>
-                            <option>Aa</option>
-                            <option>aa</option>
-                        </select>
-                    </div>
+                    <select id="p1t1">
+                        <option>AA</option>
+                        <option>Aa</option>
+                        <option>aa</option>
+                    </select>
                 </div>
-                
                 <br>
-
-                <p>&#9794 PARENTE 2</p>
+                <p>PARENTE 2</p>
                 <div class="traces">
-                    <div class="trace">
-                        <p class="traceCounter">1</p>
-                        <select id="p2t1">
-                            <option>AA</option>
-                            <option>Aa</option>
-                            <option>aa</option>
-                        </select>
-                    </div>
+                    <select id="p2t1">
+                        <option>AA</option>
+                        <option>Aa</option>
+                        <option>aa</option>
+                    </select>
                 </div>
-
                 <br>
-
                 <div class="actions">
-                    <input type="button" id="btn_setTraces" value="DEFINIR TRAÇOS" onclick="getValueSelected()"></input>
-                    <input type="button" id="btn_trace" value="+ TRAÇO"></input>
-                    <input type="button" id="btn_generate" value="GERAR" onclick="setValues()"></input>
+                    <input type="button" id="btn_setTraces" value="GERAR" onclick="getValueSelected()"></input>
                 </div>
-
             </div>
         </aside>
         <section>
-            <p>RESULTADO:</p>
-            <div class="results">
-                               
+            <p id="message">RESULTADO:</p>
+            <div class="results">       
                 <br>
-                TABELA
-                               
+                <p id="resultTableName"></p>
+                <div id="resultTable"></div>             
                 <br>
-                CÁLCULOS EM PORCENTAGEM
+                <p id="resultCalcName"></p>
+                <div id="resultCalc"></div>
             </div>
         </section>
     </div>
-    <footer>Desenvolvido para fins didáticos (2020)</footer>
+    <footer>
+        <p id="foot">2021 - Ambrósia Andrade -    
+            <a href="https://github.com/dev-ambro" target="_blank" alt="Logo do GitHub">
+                <i class="fa fa-github" style="font-size:24px"></i>
+            </a>
+        </p></footer>
     <script src="./js/script.js"></script>
 </body>
 </html>
