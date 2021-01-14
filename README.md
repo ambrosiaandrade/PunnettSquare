@@ -10,7 +10,7 @@ Developed for educational pourposes, this site aims to assist genetic studies. G
 
 -------------------------------------------------------------
 
-[!PunnetSquare(https://github.com/dev-ambro/PunnettSquare/blob/master/media/PunnettSquare-v1.0.gif)]
+[![PunnetSquare](https://github.com/dev-ambro/PunnettSquare/blob/master/media/PunnettSquare-v1.0.gif)]
 
 -------------------------------------------------------------
 
