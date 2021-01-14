@@ -10,4 +10,8 @@ Developed for educational pourposes, this site aims to assist genetic studies. G
 
 -------------------------------------------------------------
 
+[![Alt text for your video](PunnettSquare/media/PunnettSquare-v1.0.gif)]
+
+-------------------------------------------------------------
+
 *Author: Ambrósia Andrade  |  Year: 2021  |  GitHub: github.com/dev-ambro*
