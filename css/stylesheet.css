@@ -115,6 +115,7 @@ footer{
 
 a:link, a:visited {
     color: #f6f5f5;
-    text-decoration: underline;
+    text-decoration: none;
     cursor: pointer;
+    font-size: 24px;
   }
