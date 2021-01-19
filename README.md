@@ -6,13 +6,13 @@ Desenvolvido para fins didáticos, este site tem o objetivo de auxiliar os estud
 
 # [EN-US] Punnett Square
 
-Developed for educational pourposes, this site aims to assist genetic studies. Generates the Punnett square with one trace.
+Developed for educational purposes, this site aims to assist genetic studies. Generates the Punnett square with one trace.
 
 -------------------------------------------------------------
 
 # [DE-DE] Punnett Quadrat
 
-Diese Website wurde für Bildungszwecke entwickelt und soll genetische Studien unterstützen. Erzeugt das Punnett-Quadrat mit einer Spur.
+Diese Website wurde für Bildungszwecke entwickelt und soll genetische Studien unterstützen. Es erzeugt das Punnett-Quadrat mit einer Spur.
 
 -------------------------------------------------------------
 
