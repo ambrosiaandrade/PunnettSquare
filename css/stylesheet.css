@@ -85,6 +85,19 @@ section{
     font-weight: bold;
 }
 
+.actions{
+    margin-top: 20px;;
+}
+
+p{
+    margin: 10px 0 10px 0;
+}
+
+#foot{
+    margin: 0px;
+}
+
+
 table, tr, td{
     border: solid 3px #070d59;
     margin: 0px;
