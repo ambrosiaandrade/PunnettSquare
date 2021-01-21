@@ -16,6 +16,8 @@ Diese Website wurde für Bildungszwecke entwickelt und soll genetische Studien u
 
 -------------------------------------------------------------
 
-[![PunnetSquare](https://github.com/ambrosiaandrade/PunnettSquare/blob/master/media/PunnettSquare-v1.0.gif)]
+![PunnetSquare image](https://github.com/ambrosiaandrade/PunnettSquare/blob/master/media/Printscreen.png)
+
+[![PunnetSquare gif](https://github.com/ambrosiaandrade/PunnettSquare/blob/master/media/PunnettSquare-v1.0.gif)]
 
 *Author: Ambrósia Andrade  |  Year: 2021  |  GitHub: github.com/ambrosiaandrade*
