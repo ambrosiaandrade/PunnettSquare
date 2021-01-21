@@ -16,6 +16,8 @@ Diese Website wurde für Bildungszwecke entwickelt und soll genetische Studien u
 
 -------------------------------------------------------------
 
+## [PT-BR] Amostra | [EN-US] Preview | [DE-DE] Preview
+
 ![PunnetSquare image](https://github.com/ambrosiaandrade/PunnettSquare/blob/master/media/Printscreen.png)
 
 [![PunnetSquare gif](https://github.com/ambrosiaandrade/PunnettSquare/blob/master/media/PunnettSquare-v1.0.gif)]
