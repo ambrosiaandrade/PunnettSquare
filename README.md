@@ -1,3 +1,6 @@
+# Demo
+https://ambrosiaandrade.github.io/PunnettSquare/
+
 # [PT-BR] Quadro de Punnett
 
 Desenvolvido para fins didáticos, este site tem o objetivo de auxiliar os estudos da genética. Gera o quadro de Punnett com um traço.
